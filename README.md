@@ -12,9 +12,6 @@ Currently, I'm pursuing my master's degree at IULM University with a focus on Ar
 - 🤖 Passionate about AI \
 I have an insatiable curiosity when it comes to cutting-edge technologies. AI, robotics, and NFTs are areas that particularly captivate me. I'm eager to dive deep and explore the possibilities they hold. 
 
-- 🌐 Trilingual Communicator \
-Being trilingual in Spanish, Italian, and English helps me connect with people from diverse backgrounds. Language is a gateway to understanding, and I embrace the opportunity it brings.
-
 - 🌱 Eager to Learn \
 I'm constantly seeking new knowledge and skills to broaden my horizons. I thrive in dynamic environments and enjoy tackling challenges head-on. 
   
