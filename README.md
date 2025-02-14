@@ -15,9 +15,6 @@ At ASML, I’m part of the Strategic Sourcing & Procurement (SS&P) department, w
 - 🧠 **Passionate about AI and Innovation** \
 I'm deeply fascinated by the potential of AI to transform our world and enhance various industries. My interests span across machine learning, natural language processing, computer vision, and the ethical implications of AI. Beyond AI, I'm keenly interested in emerging technologies such as robotics and blockchain.
 
-- 🌍 **Global Perspective** \
-Born in Peru and raised in Italy, I thrive in multicultural settings. I've completed two Erasmus exchanges in Slovenia and Romania, which enhanced my adaptability and deepened my appreciation for diverse perspectives.
-
 - 🌱 **Continuous Learner** \
 My academic journey has taken me from law to AI and now supply chain management, equipping me with a multidisciplinary approach to problem-solving and innovation. I'm constantly seeking new knowledge and skills to broaden my horizons, and I enjoy tackling challenges head-on.
 
